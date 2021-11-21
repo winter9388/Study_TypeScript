@@ -7,3 +7,4 @@ let person: object = { name: "jack", age: 32 };
 // 타입 단언 (type assertion) - 타입스트립트는 타입 변환이 아닌 타입 단언을 사용 (두가지 형태가 있음) ES5 구문이 아님
 //(<타입>객체)
 //(객체 as 타입)
+// 예제 => type-assertion.ts
