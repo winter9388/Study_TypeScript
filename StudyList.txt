@@ -1,0 +1,22 @@
+  Ch02-4
+    04-5
+      default parameter - 디폴트 매개 변수
+      shorthand - 단축 구문
+      return-object -객체 반환 애로우 펑션
+      destructuring - 비구조화 할당문
+      indexable-key - 색인 키와 값으로 객체 만들기
+    04-6 클래스 매서드
+      func and this - function 함수와 this 키워드
+      static-method - 정적 매서드
+      method-chain - 매서드 체인
+      
+  Ch02-5 배열과 튜플
+    04-1 배열 이해하기
+      array - 배열
+      shorthand - 단축 구문
+      isArray - 배열인지 객체인지 판별
+      array-type - 배열 타입
+      split - 스플릿
+      index - 인덱스 연산자
+      for in , for of - for 문
+      generics (type, func, interface) - 
