@@ -32,4 +32,4 @@ console.log(add6(1)(2)); // fn = add6(1) 이므로 add6(1)의 함수 호출 연�
 // 그외 고차 함수 예제
 const multiply = (a) => (b) => (c) => a * b * c;
 console.log(multiply(1)(2)(3)); //6
-console.log(multiply(1)(2));
+console.log(multiply(1)(2)); // 결과는 아직 값이 아닌 함수 - '부분 애플리케이션' 혹은 '부분 적용 함수'
