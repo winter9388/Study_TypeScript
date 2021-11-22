@@ -1,4 +1,4 @@
-  Ch02-4
+  Ch04
     04-5
       default parameter - 디폴트 매개 변수
       shorthand - 단축 구문
@@ -10,8 +10,8 @@
       static-method - 정적 매서드
       method-chain - 매서드 체인
       
-  Ch02-5 배열과 튜플
-    04-1 배열 이해하기
+  Ch05 배열과 튜플
+    05-1 배열 이해하기
       array - 배열
       shorthand - 단축 구문
       isArray - 배열인지 객체인지 판별
@@ -20,3 +20,5 @@
       index - 인덱스 연산자
       for in , for of - for 문
       generics (type, func, interface) - 
+    05-2 선언형 프로그래밍과 배열
+      fold - 배열 데이터 접기
