@@ -22,3 +22,8 @@
       generics (type, func, interface) - 
     05-2 선언형 프로그래밍과 배열
       fold - 배열 데이터 접기
+      filter
+      range
+      map
+    05-3 배열의 map, reduse, filter 매서드
+      
